@@ -1,1 +1,1 @@
-# soringcloud-config
+# springcloud-config
